@@ -1,0 +1,6 @@
+name: Scenarios
+main: Scenarios\Main
+version: 1.0.0
+api: [2.0.0]
+author: tizzi32
+description: Plugin de eventos automáticos estilo UHCF para PocketMine-MP
